@@ -1,0 +1,55 @@
+STAT - файл, содержащий информацию о статусе процесса
+
+
+       pid:	 10503
+      comm:	 (hd3)
+     state:	 R
+      ppid:	 3766
+      pgrp:	 10503
+   session:	 3766
+    tty_nr:	 34816
+     tpgid:	 10503
+     flags:	 4194304
+    minflt:	 77
+   cminflt:	 0
+    majflt:	 0
+   cmajflt:	 0
+     utime:	 4898
+     stime:	 9
+    cutime:	 0
+    cstime:	 0
+  priority:	 20
+      nice:	 0
+num_threads:	 1
+itrealvalue:	 0
+start_tiime:	 1518165
+     vsize:	 2555904
+       rss:	 130
+    rsslim:	 18446744073709551615
+ startcode:	 94883510915072
+   endcode:	 94883510915749
+startstack:	 140722257723648
+   kstkesp:	 0
+   kstkeip:	 0
+    signal:	 0
+   blocked:	 0
+ sigignore:	 0
+  sigcatch:	 0
+     wchan:	 0
+     nswap:	 0
+    cnswap:	 0
+exit_signal:	 17
+ processor:	 0
+rt_priority:	 0
+    policy:	 0
+delayacct_blkio_ticks:	 0
+quest_time:	 0
+cquest_time:	 0
+start_data:	 94883510926768
+  end_data:	 94883510927376
+ start_brk:	 94883529379840
+ arg_start:	 140722257732381
+   arg_end:	 140722257732387
+ env_start:	 140722257732387
+   env_end:	 140722257735666
+ exit_code:	 0
